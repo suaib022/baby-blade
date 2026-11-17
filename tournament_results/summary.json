@@ -1,0 +1,44 @@
+{
+  "engine_version": "1.0.0",
+  "total_scheduled": 5,
+  "completed_matches": 2,
+  "is_cancelled": true,
+  "agent_a": {
+    "name": "Ironclad (easy)",
+    "wins": 2,
+    "win_rate": 1.0,
+    "p1_matches": 1,
+    "p1_wins": 1,
+    "p1_win_rate": 1.0,
+    "p2_matches": 1,
+    "p2_wins": 1,
+    "p2_win_rate": 1.0,
+    "mean_decision_time": 0.0029866037036333217
+  },
+  "agent_b": {
+    "name": "Cyclone (easy)",
+    "wins": 0,
+    "win_rate": 0.0,
+    "p1_matches": 1,
+    "p1_wins": 0,
+    "p1_win_rate": 0.0,
+    "p2_matches": 1,
+    "p2_wins": 0,
+    "p2_win_rate": 0.0,
+    "mean_decision_time": 0.01267811296363814
+  },
+  "draws": 0,
+  "draw_rate": 0.0,
+  "finish_causes": {
+    "ring_out": 0,
+    "burst": 2,
+    "spin_out": 0,
+    "simultaneous_elimination": 0,
+    "points_decision": 0
+  },
+  "averages": {
+    "rounds": 27.0,
+    "logical_seconds": 81.0,
+    "wall_clock_seconds": 0.8491623000008985
+  }
+}

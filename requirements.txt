@@ -1,0 +1,4 @@
+# BLADE ARENA — Runtime Dependencies
+# Compatible with Python 3.11 and 3.12
+# Note: Community Edition must be installed as 'pygame-ce' (imported as 'pygame').
+pygame-ce>=2.5.0,<2.6.0

@@ -1,0 +1,443 @@
+{
+  "version": "1.0.0",
+  "match_index": 32,
+  "seed": 1031,
+  "timestamp": "2026-11-17T21:34:07.516548",
+  "configuration": {
+    "stadium": "CLASSIC_DISH",
+    "player_1": {
+      "name": "Agent_B",
+      "blade": "BALANCED",
+      "budget": null
+    },
+    "player_2": {
+      "name": "Agent_A",
+      "blade": "BALANCED",
+      "budget": null
+    }
+  },
+  "outcome": {
+    "winner_name": "Agent_A",
+    "winner_id": "player_2",
+    "finish_reason": "POINTS_DECISION",
+    "p1_causes": [],
+    "p2_causes": [],
+    "p1_final_points": 0.74,
+    "p2_final_points": 0.796
+  },
+  "timing": {
+    "completed_rounds": 40,
+    "elapsed_logical_seconds": 120.0,
+    "wall_clock_seconds": 0.7294095000033849
+  },
+  "telemetry": {
+    "p1_decisions": 40,
+    "p1_total_decision_time": 0.6007555999822216,
+    "p1_mean_decision_time": 0.01501888999955554,
+    "p2_decisions": 40,
+    "p2_total_decision_time": 0.1263352999885683,
+    "p2_mean_decision_time": 0.0031583824997142075
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "p1_action": "ATTACK",
+      "p2_action": "ATTACK",
+      "p1_stability": 88.0,
+      "p1_energy": 89.0,
+      "p2_stability": 88.0,
+      "p2_energy": 89.0,
+      "stadium_radius": 10.0
+    },
+    {
+      "round": 2,
+      "p1_action": "DODGE",
+      "p2_action": "ATTACK",
+      "p1_stability": 88.0,
+      "p1_energy": 78.0,
+      "p2_stability": 88.0,
+      "p2_energy": 78.0,
+      "stadium_radius": 10.0
+    },
+    {
+      "round": 3,
+      "p1_action": "GUARD",
+      "p2_action": "CHARGE",
+      "p1_stability": 93.0,
+      "p1_energy": 71.0,
+      "p2_stability": 88.0,
+      "p2_energy": 95.0,
+      "stadium_radius": 10.0
+    },
+    {
+      "round": 4,
+      "p1_action": "CHARGE",
+      "p2_action": "CHARGE",
+      "p1_stability": 93.0,
+      "p1_energy": 88.0,
+      "p2_stability": 88.0,
+      "p2_energy": 97.0,
+      "stadium_radius": 10.0
+    },
+    {
+      "round": 5,
+      "p1_action": "CHARGE",
+      "p2_action": "ATTACK",
+      "p1_stability": 78.0,
+      "p1_energy": 97.0,
+      "p2_stability": 88.0,
+      "p2_energy": 86.0,
+      "stadium_radius": 10.0
+    },
+    {
+      "round": 6,
+      "p1_action": "GUARD",
+      "p2_action": "CHARGE",
+      "p1_stability": 83.0,
+      "p1_energy": 90.0,
+      "p2_stability": 88.0,
+      "p2_energy": 97.0,
+      "stadium_radius": 9.0
+    },
+    {
+      "round": 7,
+      "p1_action": "DODGE",
+      "p2_action": "GUARD",
+      "p1_stability": 83.0,
+      "p1_energy": 79.0,
+      "p2_stability": 93.0,
+      "p2_energy": 90.0,
+      "stadium_radius": 9.0
+    },
+    {
+      "round": 8,
+      "p1_action": "GUARD",
+      "p2_action": "CHARGE",
+      "p1_stability": 88.0,
+      "p1_energy": 72.0,
+      "p2_stability": 93.0,
+      "p2_energy": 97.0,
+      "stadium_radius": 9.0
+    },
+    {
+      "round": 9,
+      "p1_action": "CHARGE",
+      "p2_action": "CHARGE",
+      "p1_stability": 88.0,
+      "p1_energy": 89.0,
+      "p2_stability": 93.0,
+      "p2_energy": 97.0,
+      "stadium_radius": 9.0
+    },
+    {
+      "round": 10,
+      "p1_action": "CHARGE",
+      "p2_action": "ATTACK",
+      "p1_stability": 73.0,
+      "p1_energy": 97.0,
+      "p2_stability": 93.0,
+      "p2_energy": 86.0,
+      "stadium_radius": 9.0
+    },
+    {
+      "round": 11,
+      "p1_action": "GUARD",
+      "p2_action": "CHARGE",
+      "p1_stability": 78.0,
+      "p1_energy": 90.0,
+      "p2_stability": 93.0,
+      "p2_energy": 97.0,
+      "stadium_radius": 9.0
+    },
+    {
+      "round": 12,
+      "p1_action": "CHARGE",
+      "p2_action": "GUARD",
+      "p1_stability": 78.0,
+      "p1_energy": 97.0,
+      "p2_stability": 98.0,
+      "p2_energy": 90.0,
+      "stadium_radius": 8.0
+    },
+    {
+      "round": 13,
+      "p1_action": "ATTACK",
+      "p2_action": "GUARD",
+      "p1_stability": 75.0,
+      "p1_energy": 86.0,
+      "p2_stability": 94.0,
+      "p2_energy": 83.0,
+      "stadium_radius": 8.0
+    },
+    {
+      "round": 14,
+      "p1_action": "GUARD",
+      "p2_action": "CHARGE",
+      "p1_stability": 80.0,
+      "p1_energy": 79.0,
+      "p2_stability": 94.0,
+      "p2_energy": 97.0,
+      "stadium_radius": 8.0
+    },
+    {
+      "round": 15,
+      "p1_action": "CHARGE",
+      "p2_action": "ATTACK",
+      "p1_stability": 65.0,
+      "p1_energy": 96.0,
+      "p2_stability": 94.0,
+      "p2_energy": 86.0,
+      "stadium_radius": 8.0
+    },
+    {
+      "round": 16,
+      "p1_action": "GUARD",
+      "p2_action": "GUARD",
+      "p1_stability": 70.0,
+      "p1_energy": 89.0,
+      "p2_stability": 99.0,
+      "p2_energy": 79.0,
+      "stadium_radius": 8.0
+    },
+    {
+      "round": 17,
+      "p1_action": "DODGE",
+      "p2_action": "CHARGE",
+      "p1_stability": 70.0,
+      "p1_energy": 78.0,
+      "p2_stability": 99.0,
+      "p2_energy": 96.0,
+      "stadium_radius": 8.0
+    },
+    {
+      "round": 18,
+      "p1_action": "CHARGE",
+      "p2_action": "CHARGE",
+      "p1_stability": 70.0,
+      "p1_energy": 95.0,
+      "p2_stability": 99.0,
+      "p2_energy": 97.0,
+      "stadium_radius": 7.0
+    },
+    {
+      "round": 19,
+      "p1_action": "GUARD",
+      "p2_action": "GUARD",
+      "p1_stability": 75.0,
+      "p1_energy": 88.0,
+      "p2_stability": 100.0,
+      "p2_energy": 90.0,
+      "stadium_radius": 7.0
+    },
+    {
+      "round": 20,
+      "p1_action": "CHARGE",
+      "p2_action": "CHARGE",
+      "p1_stability": 75.0,
+      "p1_energy": 97.0,
+      "p2_stability": 100.0,
+      "p2_energy": 97.0,
+      "stadium_radius": 7.0
+    },
+    {
+      "round": 21,
+      "p1_action": "GUARD",
+      "p2_action": "ATTACK",
+      "p1_stability": 74.0,
+      "p1_energy": 90.0,
+      "p2_stability": 97.0,
+      "p2_energy": 86.0,
+      "stadium_radius": 7.0
+    },
+    {
+      "round": 22,
+      "p1_action": "ATTACK",
+      "p2_action": "CHARGE",
+      "p1_stability": 74.0,
+      "p1_energy": 79.0,
+      "p2_stability": 82.0,
+      "p2_energy": 97.0,
+      "stadium_radius": 7.0
+    },
+    {
+      "round": 23,
+      "p1_action": "CHARGE",
+      "p2_action": "ATTACK",
+      "p1_stability": 59.0,
+      "p1_energy": 96.0,
+      "p2_stability": 82.0,
+      "p2_energy": 86.0,
+      "stadium_radius": 7.0
+    },
+    {
+      "round": 24,
+      "p1_action": "GUARD",
+      "p2_action": "GUARD",
+      "p1_stability": 64.0,
+      "p1_energy": 89.0,
+      "p2_stability": 87.0,
+      "p2_energy": 79.0,
+      "stadium_radius": 6.0
+    },
+    {
+      "round": 25,
+      "p1_action": "CHARGE",
+      "p2_action": "CHARGE",
+      "p1_stability": 64.0,
+      "p1_energy": 97.0,
+      "p2_stability": 87.0,
+      "p2_energy": 96.0,
+      "stadium_radius": 6.0
+    },
+    {
+      "round": 26,
+      "p1_action": "GUARD",
+      "p2_action": "GUARD",
+      "p1_stability": 69.0,
+      "p1_energy": 90.0,
+      "p2_stability": 92.0,
+      "p2_energy": 89.0,
+      "stadium_radius": 6.0
+    },
+    {
+      "round": 27,
+      "p1_action": "DODGE",
+      "p2_action": "GUARD",
+      "p1_stability": 69.0,
+      "p1_energy": 79.0,
+      "p2_stability": 97.0,
+      "p2_energy": 82.0,
+      "stadium_radius": 6.0
+    },
+    {
+      "round": 28,
+      "p1_action": "GUARD",
+      "p2_action": "CHARGE",
+      "p1_stability": 74.0,
+      "p1_energy": 72.0,
+      "p2_stability": 97.0,
+      "p2_energy": 97.0,
+      "stadium_radius": 6.0
+    },
+    {
+      "round": 29,
+      "p1_action": "CHARGE",
+      "p2_action": "CHARGE",
+      "p1_stability": 74.0,
+      "p1_energy": 89.0,
+      "p2_stability": 97.0,
+      "p2_energy": 97.0,
+      "stadium_radius": 6.0
+    },
+    {
+      "round": 30,
+      "p1_action": "ATTACK",
+      "p2_action": "ATTACK",
+      "p1_stability": 62.0,
+      "p1_energy": 78.0,
+      "p2_stability": 85.0,
+      "p2_energy": 86.0,
+      "stadium_radius": 6.0
+    },
+    {
+      "round": 31,
+      "p1_action": "GUARD",
+      "p2_action": "ATTACK",
+      "p1_stability": 67.0,
+      "p1_energy": 71.0,
+      "p2_stability": 85.0,
+      "p2_energy": 75.0,
+      "stadium_radius": 6.0
+    },
+    {
+      "round": 32,
+      "p1_action": "GUARD",
+      "p2_action": "CHARGE",
+      "p1_stability": 72.0,
+      "p1_energy": 64.0,
+      "p2_stability": 85.0,
+      "p2_energy": 92.0,
+      "stadium_radius": 6.0
+    },
+    {
+      "round": 33,
+      "p1_action": "ATTACK",
+      "p2_action": "CHARGE",
+      "p1_stability": 72.0,
+      "p1_energy": 53.0,
+      "p2_stability": 70.0,
+      "p2_energy": 97.0,
+      "stadium_radius": 6.0
+    },
+    {
+      "round": 34,
+      "p1_action": "DODGE",
+      "p2_action": "ATTACK",
+      "p1_stability": 72.0,
+      "p1_energy": 42.0,
+      "p2_stability": 70.0,
+      "p2_energy": 86.0,
+      "stadium_radius": 6.0
+    },
+    {
+      "round": 35,
+      "p1_action": "ATTACK",
+      "p2_action": "CHARGE",
+      "p1_stability": 72.0,
+      "p1_energy": 31.0,
+      "p2_stability": 55.0,
+      "p2_energy": 97.0,
+      "stadium_radius": 6.0
+    },
+    {
+      "round": 36,
+      "p1_action": "ATTACK",
+      "p2_action": "ATTACK",
+      "p1_stability": 72.0,
+      "p1_energy": 20.0,
+      "p2_stability": 55.0,
+      "p2_energy": 86.0,
+      "stadium_radius": 6.0
+    },
+    {
+      "round": 37,
+      "p1_action": "CHARGE",
+      "p2_action": "CHARGE",
+      "p1_stability": 72.0,
+      "p1_energy": 37.0,
+      "p2_stability": 55.0,
+      "p2_energy": 97.0,
+      "stadium_radius": 6.0
+    },
+    {
+      "round": 38,
+      "p1_action": "GUARD",
+      "p2_action": "ATTACK",
+      "p1_stability": 71.0,
+      "p1_energy": 30.0,
+      "p2_stability": 52.0,
+      "p2_energy": 86.0,
+      "stadium_radius": 6.0
+    },
+    {
+      "round": 39,
+      "p1_action": "CHARGE",
+      "p2_action": "CHARGE",
+      "p1_stability": 71.0,
+      "p1_energy": 47.0,
+      "p2_stability": 52.0,
+      "p2_energy": 97.0,
+      "stadium_radius": 6.0
+    },
+    {
+      "round": 40,
+      "p1_action": "CHARGE",
+      "p2_action": "CHARGE",
+      "p1_stability": 71.0,
+      "p1_energy": 64.0,
+      "p2_stability": 52.0,
+      "p2_energy": 97.0,
+      "stadium_radius": 6.0
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+match_index,seed,player_1_name,player_2_name,p1_blade,p2_blade,stadium,winner_name,winner_player_id,finish_reason,completed_rounds,elapsed_logical_seconds,p1_points,p2_points,wall_clock_seconds,p1_decisions,p1_mean_decision_seconds,p2_decisions,p2_mean_decision_seconds
+1,42,Ironclad (easy),Cyclone (easy),BALANCED,BALANCED,CLASSIC_DISH,Ironclad (easy),player_1,BURST,24,72.0,0.32,0.24,0.3694,24,0.0032,24,0.0122
+2,43,Cyclone (easy),Ironclad (easy),BALANCED,BALANCED,CLASSIC_DISH,Ironclad (easy),player_2,BURST,30,90.0,0.20,0.21,0.4798,30,0.0131,30,0.0029

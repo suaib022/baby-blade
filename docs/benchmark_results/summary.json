@@ -1,0 +1,44 @@
+{
+  "engine_version": "1.0.0",
+  "total_scheduled": 50,
+  "completed_matches": 50,
+  "is_cancelled": false,
+  "agent_a": {
+    "name": "Agent_A",
+    "wins": 36,
+    "win_rate": 0.72,
+    "p1_matches": 25,
+    "p1_wins": 19,
+    "p1_win_rate": 0.76,
+    "p2_matches": 25,
+    "p2_wins": 17,
+    "p2_win_rate": 0.68,
+    "mean_decision_time": 0.002876539055999282
+  },
+  "agent_b": {
+    "name": "Agent_B",
+    "wins": 9,
+    "win_rate": 0.18,
+    "p1_matches": 25,
+    "p1_wins": 7,
+    "p1_win_rate": 0.28,
+    "p2_matches": 25,
+    "p2_wins": 2,
+    "p2_win_rate": 0.08,
+    "mean_decision_time": 0.012031198702081228
+  },
+  "draws": 5,
+  "draw_rate": 0.1,
+  "finish_causes": {
+    "ring_out": 0,
+    "burst": 25,
+    "spin_out": 1,
+    "simultaneous_elimination": 5,
+    "points_decision": 19
+  },
+  "averages": {
+    "rounds": 33.9,
+    "logical_seconds": 101.7,
+    "wall_clock_seconds": 25.368744599996717
+  }
+}
